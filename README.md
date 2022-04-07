@@ -180,7 +180,7 @@ predict_proba(X): predict class probabilities for each class in each level, retu
 
 score(X, y): return a dictionary containing accuracy and 1 – Hamming Loss for a given test data set and labels
 
-# Atributes of Ensemble_Model() class
+# Attributes of HMLC() class
 n_features_: int
 
 Number of features seen during fit.
